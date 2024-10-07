@@ -1,0 +1,31 @@
+@charset "UTF-8";
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: tomato;
+  height: 90px;
+  text-align: center;
+  padding-top: 10px;
+  color: white;
+  border: solid black 1px;
+}
+header li {
+  display: inline-block;
+  margin: 20px;
+}
+header li a {
+  color: white;
+  text-decoration: none;
+}
+
+.primeiraSessão {
+  height: 500px;
+  background-position: center;
+  background-image: url(./imgs/mesversario.png);
+  background-size: cover;
+  color: white;
+}/*# sourceMappingURL=style.css.map */
